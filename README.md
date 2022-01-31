@@ -1,5 +1,10 @@
 # Build a Blockchain Project
 
+## How to run
+
+1. yarn or npm i
+2. node index.js
+
 ## Specs
 
 - Blockchain is a reversed linked list
